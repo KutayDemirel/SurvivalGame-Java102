@@ -1,5 +1,5 @@
 # SurvivalGame-Java
-
+---
 - Text based survival game
 - Application of four pillars of object-oriented programming
 - Character classes
